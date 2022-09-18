@@ -1,4 +1,5 @@
-# Tarea 6: Azure AD PIM para roles
+# Configuración de Azure AD Privileged Identity Management
+## Tarea 6: Azure AD PIM para roles
 
 En esta tarea, vamos a configurar las opciones de activación de PIM, agregar Administrador de facturación como un rol de PIM, activar el rol y probar la activación.
 
