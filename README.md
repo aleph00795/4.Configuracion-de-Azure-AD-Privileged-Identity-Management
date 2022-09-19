@@ -122,5 +122,5 @@ En esta tarea, pruebe el rol Administrador de facturación.
 
 Nota: Se puede cancelar solicitud
 
-![image](https://user-images.githubusercontent.com/110675810/189482489-32610a43-b12c-4bfb-9b05-3da293e3a043.png)
+![image](https://user-images.githubusercontent.com/110675810/191139356-ee308fc9-f729-4e20-9372-932bcbf9d34a.png)
 
