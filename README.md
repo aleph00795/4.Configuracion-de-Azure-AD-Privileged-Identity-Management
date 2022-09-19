@@ -108,9 +108,11 @@ En esta tarea, pruebe el rol Administrador de facturación.
 
 ![image](https://user-images.githubusercontent.com/110675810/189482209-b456c3c0-46d8-42ee-8b97-9c689a84a60e.png)
 
-![image](https://user-images.githubusercontent.com/110675810/189482252-4e1ae2c7-1103-4855-8176-cf478823734f.png)
-
 4. Seleccione la pestaña Roles activos y compruebe que el rol Administrador de facturación se haya activado.
+
+![image](https://user-images.githubusercontent.com/110675810/191138942-429a967e-ec1e-481a-aefa-ac1c7ea42a45.png)
+
+![image](https://user-images.githubusercontent.com/110675810/189482252-4e1ae2c7-1103-4855-8176-cf478823734f.png)
 
 5. El rol debería aparecer ahora como Activado.
 
