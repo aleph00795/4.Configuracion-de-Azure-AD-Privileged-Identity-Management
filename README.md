@@ -92,6 +92,59 @@ En esta tarea, se agregará el rol Administrador de facturación a PIM.
 ![image](https://user-images.githubusercontent.com/110675810/189481087-6dada50f-b35b-4526-a0ba-589422cb4164.png)
 
 
+ACIVACION DE UN ROL
+
+En esta tarea, vamos a activar el rol Administrador de facturación.
+
+1. En el Portal, busque Azure Active Directory y selecciónelo.
+
+2. En Administrar, haga clic en Usuarios.
+
+3. Seleccione AZ500User1.
+
+![image](https://user-images.githubusercontent.com/110675810/191140179-475d3dda-be1d-4926-ac0e-fa20cc064eb3.png)
+
+4. En Administrar, haga clic en Roles asignados.
+
+5. Compruebe que el usuario no esté asignado a ningún rol.
+
+![image](https://user-images.githubusercontent.com/110675810/191140484-b6295e74-f516-4907-bab4-ba3b192fee6e.png)
+
+6. Inicie sesión en Portal como AZ500User1.
+
+7. Busque y seleccione Azure AD Privileged Identity Management.
+
+8. En Tareas, seleccione Mis roles.
+
+![image](https://user-images.githubusercontent.com/110675810/191140568-5c81ed45-51cf-4f55-9d23-cc0ea3c441fa.png)
+
+9. En Activar, seleccione Roles de Azure AD.
+
+10. Seleccione los Roles activos y compruebe que no aparezcan roles.
+
+![image](https://user-images.githubusercontent.com/110675810/191140668-ac54f7af-5f92-4a4b-a7d7-ed9437b3568e.png)
+
+11. En la pestaña Roles elegibles, observe el rol Administrador de facturación.
+
+12. En la columna Acción, seleccione Activar.
+
+![image](https://user-images.githubusercontent.com/110675810/191140958-b84c6325-4a8e-4914-9f2e-f76b5aa2aa55.png)
+
+13. La opción de Detalles de asignación se muestra en el portal. Entre estos se incluyen las horas de inicio y finalización y la posibilidad de agregar un motivo.
+
+14. Agregue un motivo y, a continuación, haga clic en Activar.
+
+![image](https://user-images.githubusercontent.com/110675810/191141075-293aa09a-62f7-4bca-a384-5502e7bbdc6a.png)
+
+15.El Estado de activación debe mostrar que se han completado todas las fases de activación.
+
+16. Use el vínculo para Cerrar sesión.
+
+![image](https://user-images.githubusercontent.com/110675810/191141235-ef693d8f-b3b7-44c8-a374-04ddfc3388cb.png)
+
+17. Debe cerrar la sesión y volver a iniciarla para empezar a usar el rol recién activado.
+
+
 PRUEBA DE ACCESO AL ROL
 
 En esta tarea, pruebe el rol Administrador de facturación.
