@@ -153,8 +153,6 @@ En esta tarea, pruebe el rol Administrador de facturación.
 
 ![image](https://user-images.githubusercontent.com/110675810/189481860-6bdf2ca8-f53c-435a-9f95-b6f8bd8a73ff.png)
 
-![image](https://user-images.githubusercontent.com/110675810/189482095-69443df7-8ad4-447d-b4f1-24b776346fa1.png)
-
 2. Busque y seleccione Azure AD Privileged Identity Management.
 
 3. En Activar, seleccione Roles de Azure AD.
@@ -163,17 +161,13 @@ En esta tarea, pruebe el rol Administrador de facturación.
 
 4. Seleccione la pestaña Roles activos y compruebe que el rol Administrador de facturación se haya activado.
 
-![image](https://user-images.githubusercontent.com/110675810/191138942-429a967e-ec1e-481a-aefa-ac1c7ea42a45.png)
-
 ![image](https://user-images.githubusercontent.com/110675810/189482252-4e1ae2c7-1103-4855-8176-cf478823734f.png)
 
 5. El rol debería aparecer ahora como Activado.
 
-![image](https://user-images.githubusercontent.com/110675810/189482277-60219f16-5aee-463a-914a-5cc370cb03ba.png)
-
 6. Observe que existe la opción de Desactivar el rol.
 
-Nota: Se puede cancelar solicitud
+![image](https://user-images.githubusercontent.com/110675810/191142310-ac594442-fecc-4000-b511-b698c14be650.png)
 
-![image](https://user-images.githubusercontent.com/110675810/191139356-ee308fc9-f729-4e20-9372-932bcbf9d34a.png)
+Nota: Se puede cancelar solicitud
 
